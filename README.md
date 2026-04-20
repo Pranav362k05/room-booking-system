@@ -1,4 +1,4 @@
-A room booking system
+Room booking system
 =====
 The web application is build with python Flask framwork along with SQLite3 database. It has basic login system since the booking have to be done with authentication. A admin account is created by default, with username: admin, and password: admin. The administrator have the access to directly manipulate team and users. 
 
