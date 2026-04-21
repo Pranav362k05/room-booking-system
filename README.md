@@ -36,4 +36,4 @@ $ python populate.py
 ```
 $ flask run
 ```
-2. Open the app in browser: [localhost](http://127.0.0.1:5000/)
+2. Open the app in browser: http://127.0.0.1:5000/ [localhost](http://127.0.0.1:5000/)
