@@ -35,7 +35,8 @@ $ python populate.py
 
 # Running
 1. Run the flask application from the project directory, running on localhost
+
+2. Open the app in browser:  [localhost](http://127.0.0.1:5000/)
 ```
-$ flask run
+http://127.0.0.1:5000/
 ```
-2. Open the app in browser: http://127.0.0.1:5000/ [localhost](http://127.0.0.1:5000/)
